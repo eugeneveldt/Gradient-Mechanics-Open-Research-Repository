@@ -1,8 +1,3 @@
-Based on the structure of your Gradientology README and the specific content of the **Gradient Mechanics** suite (Papers 1–16) and *Planogenesis* protocol, here is the tailored README for the **Gradient Mechanics** repository.
-
-It highlights the shift from "theoretical treatises" to "computational protocols" (R-MEP) and "operational metrics."
-
----
 
 # Gradient Research - Gradient Mechanics Open Research Repository
 
